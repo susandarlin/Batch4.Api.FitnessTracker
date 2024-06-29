@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batch4.Api.FitnessTracker.B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batch4.UI.FitnessTracker", "Batch4.UI.FitnessTracker\Batch4.UI.FitnessTracker.csproj", "{17DFC699-2706-430A-92E3-A08F4EB86766}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{F612419F-DA94-4EFB-AA58-BA912AF2B8BA}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Users\Lenovo\Documents\FitnessTracker.sql = ..\..\..\..\Users\Lenovo\Documents\FitnessTracker.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
